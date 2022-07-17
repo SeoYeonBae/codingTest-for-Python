@@ -1,4 +1,5 @@
 # 약수 찾기
+
 import math
 
 def find_all_divisors(x):

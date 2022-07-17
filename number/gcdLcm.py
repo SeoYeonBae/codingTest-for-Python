@@ -1,4 +1,5 @@
 # gcd 최대공약수 lcm 최소공배수
+
 from math import gcd
 
 # 최대 공약수
